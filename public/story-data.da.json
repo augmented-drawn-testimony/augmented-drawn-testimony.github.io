@@ -1,0 +1,726 @@
+{
+  "start": {
+    "title": "En dansk dreng i Theresienstadt",
+    "shorttitle": "En dansk dreng",
+    "subtitle": "Et tegnet vidnesbyrd",
+    "text": "Den 2. oktober 1943 blev den otteårige Steen Metz og hans forældre arresteret i deres hjem i Odense og deporteret til koncentrationslejren Theresienstadt.\nDerefter fulgte atten måneder med sult, brutalitet og tab – herunder faderens død som følge af sult. Af de 15.000 børn, der kom gennem Theresienstadt, overlevede færre end 1.500. Steen var et af dem. I årtier holdt Steen, ligesom mange andre overlevende fra Holocaust, sine oplevelser for sig selv. Men i 2011 var han klar til at dele sin historie i erindringsbogen En dansk dreng i Theresienstadt.\nNu genfortæller vi Steens rejse gennem denne interaktive visuelle oplevelse, hvor håndtegnede illustrationer genskaber hans erindringer og fører dig gennem fortællingen – for at bevidne, udforske og huske.",
+    "location": "Odense, Danmark",
+    "time": "1943",
+    "data": [
+      {
+        "image": "/images/data/steen.jpg",
+        "caption": "Holocaustoverleveren Steen Metz i sit hjem i Barrington den 3. februar 2022.",
+        "copyright": " Stacey Wescott / Chicago Tribune."
+      }
+    ]
+  },
+  "young": {
+    "title": "Steen Metz",
+    "subtitle": "Et næsten normalt liv",
+    "text": "Steen Axel Metz blev født i Odense som søn af Axel Mogens Metz og Magna Metz. Trods sin baggrund vidste Steen ikke, at han var jøde – familien fejrede endda jul. \nDer er kun to fotografier tilbage fra hans barndom før Theresienstadt-ghettoen...",
+    "location": "Odense, Danmark",
+    "time": "1935 - 1943",
+    "audio": "almost-normal-life.mp3",
+    "data": [
+      {
+        "image": "/images/data/icecream.jpg",
+        "caption": "Den otteårige Steen Metz spiser en is.",
+        "copyright": " IHMEC: med tilladelse fra Steen Metz."
+      },
+      {
+        "image": "/images/data/family.jpg",
+        "caption": "Steen Metz (omkring seks år) sidder sammen med sin bedstemor, Betty Metz, og sin far, Axel Metz.",
+        "copyright": " IHMEC: med tilladelse fra Steen Metz."
+      }
+    ]
+  },
+  "steenphoto_x5F_group": {
+    "title": "Steen Metz",
+    "subtitle": "Sommeren før arrestationen",
+    "text": "Her ses den otteårige Steen, fotograferet mens han spiser is i sommeren før familiens arrestation. Senere mindedes han, hvor forholdsvis normale disse år havde været:\n\nquote(Jeg cyklede til og fra skole. Jeg mødte ofte nazistiske soldater – de talte aldrig til mig og rørte mig aldrig.)",
+    "location": "Odense, Danmark",
+    "time": "1935 - 1943",
+    "data": [
+      {
+        "image": "/images/data/icecream.jpg",
+        "caption": "Den otteårige Steen Metz spiser en is.",
+        "copyright": " IHMEC: med tilladelse fra Steen Metz."
+      }
+    ]
+  },
+  "familyphoto_x5F_group": {
+    "title": "Steen Metz",
+    "subtitle": "Livet i Stovesberg",
+    "text": "Scene viser Steen Axel Metz sammen med sin far, Axel Mogens Metz, og sin bedstemor, siddende på en stenmur uden for deres lejlighed på Hjallesevej. Steen bevarede gode minder om sin far, som lærte ham at cykle og passede et kolonihavelod rundt om hjørnet fra deres hjem, adskilt fra selve Stovesberg-komplekset. Senere tænkte Steen tilbage på den tid, de tilbragte der sammen:\n\nquote(Min far havde en kolonihave, fordi vi altid boede i lejligheder uden have. Jeg har gode minder om den tid, jeg tilbragte med min far, hvor vi såede grøntsager og blomster. Jeg solgte endda nogle af de færdige produkter til min mor. Begyndelsen på min karriere som forretningsmand!)",
+    "location": "Odense, Danmark",
+    "time": "1935 - 1943",
+    "data": [
+      {
+        "image": "/images/data/family.jpg",
+        "caption": "Steen Metz (omkring seks år) sidder sammen med sin bedstemor, Betty Metz, og sin far, Axel Metz.",
+        "copyright": " IHMEC: med tilladelse fra Steen Metz."
+      }
+    ]
+  },
+  "hjallesevej": {
+    "title": "Arrestationen",
+    "subtitle": "Danmark under den tyske besættelse",
+    "text": "I april 1940 besatte tyske styrker Danmark. Samme måned flyttede den niårige Steen og hans familie ind i en ny lejlighed i Stovesberg-bygningen på Hjallesevej 98 i Odense. Trods fødevarerationeringen under besættelsen opretholdt familien en næsten normal hverdag i krigens første år. Steen hjalp mælkemanden med leveringerne, og i 1941 begyndte han i skole. Da han nåede tredje klasse, blev Steen og hans forældre arresteret af nazisterne og ført bort fra deres hjem.",
+    "location": "Odense, Danmark",
+    "time": "2. oktober 1943",
+    "data": [
+      {
+        "image": "/images/data/stovesberg.jpg",
+        "caption": "Boligkomplekset Stovesberg.",
+        "copyright": " Boligforeningen Stovesberg."
+      },
+      {
+        "image": "/images/data/arrest_hjallesevej.jpg",
+        "caption": "Boligkomplekset Stovesberg i 2025.",
+        "copyright": "Foto: Anouk Stevens."
+      }
+    ]
+  },
+  "door_x5F_group": {
+    "title": "Arrestationen",
+    "subtitle": "Et bank på døren",
+    "text": "Tidligt om morgenen den 2. oktober 1943, under den jødiske højtid rosh hashana, hørte Steen og hans familie nogen banke på døren. Steen fortalte senere, hvordan hans far åbnede døren og så to nazister i grønne uniformer stå på gangen.",
+    "location": "Odense, Danmark",
+    "time": "Oktober 1943",
+    "audio": "arrest_door.mp3"
+  },
+  "baker_x5F_group": {
+    "title": "Arrestationen",
+    "subtitle": "Bageren nedenunder",
+    "text": "Steen og hans mor fik lov til at hente en nødpakke hos bageren nedenunder, mens hans far blev holdt under bevogtning ovenpå. De fik en sæk fyldt med dansk brød og kager. Steens mor, Magna, huskede senere det store antal brød, de fik. Efter hjemkomsten erfarede Steen, at bageren havde tilbudt at hjælpe dem med at flygte gennem tunnellerne under ejendommen. De kunne dog ikke have taget imod tilbuddet, da det højst sandsynligt ville have ført til, at både bageren og hans far blev skudt.",
+    "location": "Odense, Danmark",
+    "time": "Oktober 1943",
+    "audio": "arrest_baker.mp3"
+  },
+  "vestreskole_x5F_group": {
+    "title": "Arrestationen",
+    "subtitle": "Rejsen til Theresienstadt",
+    "text": "En gruppe på omkring tres danske jøder, heriblandt Steen og hans familie, blev samlet på den lokale Vestre Skole, før de blev transporteret til den nærliggende by Kolding og senere til ghettoen Theresienstadt.",
+    "location": "Odense, Danmark",
+    "time": "Oktober 1943",
+    "audio": "arrest_vestreskole.mp3"
+  },
+  "transport": {
+    "title": "Transporten",
+    "subtitle": "En tre dage lang rejse",
+    "text": "Steen og hans forældre blev stuvet ind i en kreaturvogn og transporteret til Theresienstadt-ghettoen. Rejsen varede tre dage, hvor vognen forblev låst udefra og kun standsede én gang, da passagererne fik en lille smule vand. Blandt passagererne var fire børn, herunder Steen, som indimellem kunne ligge ned. De voksne måtte skiftes til at sidde og stå.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "2. oktober 1943",
+    "map": {
+      "title": "Fra Odense til Theresienstadt med grænserne fra 1938.",
+      "mapyear": 1939,
+      "start": {
+        "lat": 55.381537446534686,
+        "lon": 10.395795592972672
+      },
+      "end": {
+        "lat": 50.51061972769558,
+        "lon": 14.149830134701624
+      },
+      "lineString": {
+        "type": "LineString",
+        "coordinates": [
+          [10.38680230739627, 55.401378368218836],
+          [10.195328216744317, 55.34411400186823],
+          [9.741836949410741, 55.56916834048797],
+          [9.316674850721478, 55.493297854011615],
+          [9.406875353752435, 54.76833654059441],
+          [9.67747686178077, 54.30143281886522],
+          [9.979913842531623, 54.074795800109314],
+          [9.66155912603833, 53.74662857853525],
+          [10.008212039647495, 53.55374264296489],
+          [11.216191321398659, 53.41693214255505],
+          [11.762700251527392, 53.00172012743586],
+          [13.359779738666857, 52.53408980089987],
+          [13.633918518147565, 51.82155956959186],
+          [13.513651180772957, 51.471472284707296],
+          [13.729424933121518, 51.03978701829048],
+          [14.146511906985117, 50.50768442745552],
+          [14.149437485675897, 50.49184533930756]
+        ]
+      }
+    },
+    "data": [
+      {
+        "image": "/images/data/transport_document.jpg",
+        "caption": "Transportdokument for Steen Axel Metz. 54 var det nummer, Steen fik tildelt, og XXV/I henviser til den første transport af danske jøder til Theresienstadt.",
+        "copyright": " Arolsen Archives."
+      },
+      {
+        "image": "/images/data/arrival.jpg",
+        "caption": "Jernbanestationen Theresienstadt-Bauschowitz under Første Verdenskrig.",
+        "copyright": " Zdeněk Fořt."
+      },
+      {
+        "image": "/images/data/arrival2.jpg",
+        "caption": "Jøders ankomst til Theresienstadt.",
+        "copyright": " United States Holocaust Memorial Museum."
+      },
+      {
+        "image": "/images/data/trainstation.jpg",
+        "caption": "Postkort fra 1907 af jernbanestationen Theresienstadt-Bauschowitz, hvor fangerne ankom, før der blev bygget en station i Theresienstadt.",
+        "copyright": " Zdeněk Fořt."
+      }
+    ]
+  },
+  "cattlecar_x5F_group": {
+    "title": "Transporten",
+    "subtitle": "Kreaturvognen",
+    "text": "Forholdene under transporten var elendige. Selvom historikere ofte bruger betegnelsen 'godsvogn', bruger Steen og andre overlevende konsekvent betegnelsen 'kreaturvogn', fordi det var, hvad den var. Manglen på sanitære faciliteter skabte en overvældende stank, som Steen husker tydeligt. Han fortæller om de skræmte ansigter omkring sig; ingen vidste, hvad der skulle ske med dem.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "2. oktober 1943",
+    "data": [
+      {
+        "caption": "På banegården i Kolding måtte vi stå på række og geled og blev talt omkring ti gange af det skrigende Gestapo. Til sidst blev vi stuvet ind i kreaturvogne med omkring 35 personer i hver vogn, hvor der var helt mørkt, uden lys eller mulighed for at gå på toilettet. Vi fik hverken mad eller drikke bortset fra på én station, hvor vi fik to flasker vand, som skulle deles mellem 35 fanger på den 84 timer lange rejse.",
+        "copyright": " Magna Metz' erindringer om Theresienstadt i en undersøgelse foretaget af den danske regering i 1946. I: En dansk dreng i Theresienstadt. Oversat af Steen."
+      },
+      {
+        "image": "/images/data/cattlecar.png",
+        "caption": "Efter arrestationen blev Steen og hans forældre stuvet ind i en overfyldt kreaturvogn. Historikere bruger ofte betegnelsen godsvogn, men som Steen påpeger, kalder overlevende den en kreaturvogn, fordi det var, hvad den var. Steen husker, at vognen lugtede forfærdeligt, fordi der ikke var nogen toiletfaciliteter.",
+        "copyright": null
+      }
+    ]
+  },
+  "roof_x5F_group": {
+    "title": "Transporten",
+    "subtitle": "Station Theresienstadt-Bauschowitz",
+    "text": "Theresienstadt havde ikke sin egen jernbanestation. I stedet blev de deporterede bragt til stationen Theresienstadt-Bauschowitz, der i dag er kendt som Bohušovice station. Herfra skulle de gå omkring 2,5 kilometer for at nå lejren.\n\nSelvom de nyankomne fanger blev opdelt i grupper efter køn og alder, fik Steen lov til at blive hos sin mor under opholdet i Theresienstadt.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "5. oktober 1943",
+    "audio": "transport_valuables.mp3",
+    "data": [
+      {
+        "image": "/images/data/roof.jpg",
+        "caption": "Taget på jernbanestationen Theresienstadt-Bauschowitz.",
+        "copyright": " United States Holocaust Memorial Museum. Proveniens: Ivan Vojtech Fric."
+      }
+    ]
+  },
+  "barracks": {
+    "title": "Tvangsarbejde",
+    "subtitle": "Levevilkårene i Theresienstadt",
+    "text": "Mens de fleste deporterede blev opdelt i grupper efter køn og alder, fik Steen lov til at blive hos sin mor. Steen og hans mor blev indkvarteret i Hamborg-kasernen. De dårlige forhold skabte problemer året rundt: Om sommeren var der angreb af lus og lopper, mens vintrene var præget af ekstrem kulde.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943",
+    "data": [
+      {
+        "image": "/images/data/barracks2.jpg",
+        "caption": "Fotografi af en kaserne.",
+        "copyright": " Fotoarkivet, Terezín Memorial."
+      },
+      {
+        "image": "/images/data/barracks.jpg",
+        "caption": "Rekonstruktion af en kaserne.",
+        "copyright": " Terezín Memorial."
+      },
+      {
+        "image": "/images/data/barracks_magdeburg.jpg",
+        "caption": "Akvarelmaleri skabt af Helga Wolfenstein King i Theresienstadt i 1945.",
+        "copyright": " Moshal Repository, Yad Vashem Art Collection, acc. no. 19404. Erhvervet med støtte fra Barbara og Lewis Shrensky, Washington, D.C."
+      },
+      {
+        "image": "/images/data/living_barracks.jpg",
+        "caption": "Et akvarelmaleri skabt af Zdenka Eismannova, mens hun var interneret i Theresienstadt. Det viser kvinder, der hviler på køjerne i en overfyldt kaserne.",
+        "copyright": " United States Holocaust Memorial Museum. Proveniens: Ron Neulinger."
+      },
+      {
+        "caption": "Vi havde masser af lopper, væggelus og endnu værre: lus. Jeg vil aldrig glemme vores første tid på loftet, hvor min dreng og jeg havde fået tildelt tre små stråmåtter og intet andet. Vi lå begge på måtterne, og næste morgen sagde min dreng, at han ikke kunne sove på grund af kløen, og at han aldrig havde oplevet noget lignende derhjemme.",
+        "copyright": " Magna Metz' erindringer om Theresienstadt i en undersøgelse foretaget af den danske regering i 1946. I: En dansk dreng i Theresienstadt. Oversat af Steen."
+      }
+    ]
+  },
+  "mother_x5F_group": {
+    "title": "Tvangsarbejde",
+    "subtitle": "Glimmerproduktion",
+    "text": "Ifølge Steens vidnesbyrd blev hans mor ikke udsat for fysisk mishandling i Theresienstadt. Ud over omsorgen for sit barn blev hun sat til fabriksarbejde, hvor hun fremstillede isoleringsmateriale til fly af glimmer. Ved en lejlighed fortalte hun en soldat, at hun havde det dårligt, efter at hendes mand var død af underernæring. Soldaten vendte tilbage hver dag i otte dage og tvang hende til at sige, at hendes mand var død af lungebetændelse. Ved en anden lejlighed væltede en vagt med vilje en spand beskidt vand, mens hun vaskede gulv, så hun måtte begynde forfra.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943",
+    "data": [
+      {
+        "image": "/images/data/labour_mica.jpg",
+        "caption": "To stykker glimmer, som blev gemt af Ilse Silten, der var tvangsarbejder på en glimmerfabrik.",
+        "copyright": " United States Holocaust Memorial Museum."
+      },
+      {
+        "caption": "Det arbejde, vi fik tildelt, var ikke altid lige slemt, men det arbejde, jeg udførte i længst tid, var absolut det værste, og jeg husker det tydeligt. Jeg havde det arbejde i vores sidste ni måneder i lejren. Det var fabriksarbejde med glimmer. Vi arbejdede på skift fra kl. 6 til 14 og fra kl. 12 middag til 22 med omkring 300 kvinder på hvert skift. Vi sad på træbænke i de nybyggede hytter, hvor der var meget koldt, især om morgenen. Nogle var så heldige at have tæpper med. Vi skulle 'spalte' glimmeren med et redskab, der lignede en lang neglefil, i mange fine stykker, som derefter blev sorteret efter størrelse i en kasse med tre rum til forskellige størrelser.",
+        "copyright": " Magna Metz' erindringer om Theresienstadt i en undersøgelse foretaget af den danske regering i 1946. I: En dansk dreng i Theresienstadt. Oversat af Steen."
+      }
+    ]
+  },
+  "post_x5F_group": {
+    "title": "Tvangsarbejde",
+    "subtitle": "At bringe beskeder ud",
+    "text": "Steen udførte frivilligt arbejde i lejren og bragte beskeder og dokumenter mellem kontorerne. Når han afleverede dokumenter, kom han forbi køkkenerne. En dag fik han øje på en sæk rå kartofler. Han sikrede sig, at ingen så ham, tog to kartofler og stak dem i lommen. Da han kom tilbage til kasernen, delte han dem med sin mor.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943"
+  },
+  "food": {
+    "title": "Levevilkårene i Theresienstadt",
+    "shorttitle": "Levevilkår",
+    "subtitle": "At stå i kø efter mad",
+    "text": "Under opholdet i Theresienstadt-ghettoen måtte Steen og de andre fanger stå i lange køer for at få deres måltid. De spiste kartoffelsuppe næsten hver dag, men den bestod stort set kun af kogt vand og kartoffelskræller. Til morgenmad fik fangerne kaffeerstatning og ét brød, som hele familien skulle deles om i en hel uge. Nogle gange fik de en særlig ret med melboller.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943"
+  },
+  "exchangingfood_x5F_group": {
+    "title": "Levevilkårene i Theresienstadt",
+    "subtitle": "At bytte med mad",
+    "text": "Da Steen voksede ud af sine sko, var der ingen mulighed for at erstatte dem. Mad var blevet lige så værdifuld som guld, og fangerne brugte den til at bytte sig til ting, de havde brug for. Steens mor byttede mad for et par brugte sko hos en medfange. Omkring 35.000 mennesker i lejren døde som følge af underernæring, en barsk påmindelse om manglen på basale fornødenheder.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943"
+  },
+  "carepackages_x5F_group": {
+    "title": "Levevilkårene i Theresienstadt",
+    "subtitle": "Hjælpepakker fra Røde Kors",
+    "text": "I april 1944, omkring seks måneder efter ankomsten, begyndte de danske fanger at modtage pakker fra Danmark og Sverige med mad, vitaminer og tøj. Pakkerne var afgørende for deres overlevelse. Vagterne tog dog ofte mad fra pakkerne, før de nåede frem til fangerne. En pakke adresseret til Steens mor var usædvanlig tung. Da hun åbnede den, var maden blevet fjernet og erstattet med sten.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1935 - 1943"
+  },
+  "infirmary": {
+    "title": "Sygeafdelingen",
+    "subtitle": "Levevilkårene i Theresienstadt",
+    "text": "Før arrestationen og deportationen til Theresienstadt-ghettoen i oktober 1943 havde Steens far, Axel Mogens Metz, arbejdet som advokat. I lejren blev han udsat for tvangsarbejde og fysisk mishandling.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "13. marts 1944",
+    "data": [
+      {
+        "image": "/images/data/infirmary_drawingfleischmann.jpg",
+        "caption": "Kirurgisk afdeling i den gamle kaserne, tegnet af Karel Fleischmann.",
+        "copyright": " Art Collection, Ghetto Fighters' House Museum Archive, katalognummer 1763."
+      }
+    ]
+  },
+  "coat_x5F_group": {
+    "title": "Sygeafdelingen",
+    "subtitle": "Tvangsarbejde",
+    "text": "I lejren blev Axel sat til vejarbejde, et fysisk krævende arbejde, som han ikke var vant til. Arbejdsdagene var lange, med få pauser og kun lidt mad. Ved en lejlighed konfiskerede en vagt hans frakke med den begrundelse, at den var uegnet til fysisk arbejde.\n\nFørst efter krigen fik Steen at vide, at hans far var blevet udsat for fysisk mishandling under opholdet i Theresienstadt.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "13. marts 1944",
+    "audio": "infirmary_coat.wav",
+    "data": [
+      {
+        "image": "/images/data/forcedLabour2.jpg",
+        "caption": "Et maleri af hovedindgangen til ghettoen Theresienstadt i Tjekkiet og tvangsarbejdere med redskaber på vej hjem fra arbejde. Malet af Edvard Neugebauer den 28. august 1943.",
+        "copyright": " Montreal Holocaust Museum. Foto: Peter Berra."
+      },
+      {
+        "image": "/images/data/labour_shovels.png",
+        "caption": "Oliekridttegning af Franz Peter Kien, som viser fanger i Theresienstadt, der graver med skovle, skabt 1942–1944.",
+        "copyright": " Moshal Repository, Yad Vashem Art Collection, acc. no. 19450. Erhvervet med støtte fra Barbara og Lewis Shrensky, Washington, D.C."
+      },
+      {
+        "image": "/images/data/forcedLabour.jpg",
+        "caption": "Tvangsarbejde i Theresienstadt.",
+        "copyright": " United States Holocaust Memorial Museum."
+      },
+      {
+        "image": "/images/data/infirmary_forcedlabour.jpg",
+        "caption": "Jøder under tvangsarbejde med at opsætte hegn ved kasernebygningerne i ghettoen Theresienstadt.",
+        "copyright": " Photo Archive, Ghetto Fighters' House Museum Archive, katalognummer 15656."
+      }
+    ]
+  },
+  "axelmetz_x5F_group": {
+    "title": "Sygeafdelingen",
+    "subtitle": "En fars død",
+    "text": "Lejrforholdene medførte, at Axel Mogens Metz tabte omkring halvdelen af sin kropsvægt. Selvom sygeafdelingens personale udførte deres arbejde grundigt, manglede de de nødvendige forsyninger til at yde tilstrækkelig behandling. Den 13. marts 1944 døde Steens far af underernæring, fyrre år gammel. De nazistiske myndigheder registrerede dødsårsagen som lungebetændelse.\n\nI et senere interview fortalte Steens mor, at hun måtte henvende sig sytten forskellige steder, før hun fik bekræftet sin mands død.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "13. marts 1944",
+    "audio": "infirmary_death.mp3"
+  },
+  "soccer": {
+    "title": "Venskab",
+    "subtitle": "Livet i Theresienstadt",
+    "text": "Steen var kun ni år gammel, da han blev holdt fanget i Theresienstadt-ghettoen. Mellem køerne til mad og arbejdet med at bringe beskeder rundt i lejren fandt han øjeblikke med venskab og barndom, når han spillede fodbold.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1943 - 1945",
+    "data": [
+      {
+        "image": "/images/data/soccer_childrenbarrack.avif",
+        "caption": "Fotografi af en gade i Theresienstadt nær børnekasernen, taget under besøget fra Røde Kors' internationale delegation.",
+        "copyright": " ICRC - International Committee of the Red Cross"
+      },
+      {
+        "image": "/images/data/soccer_propaganda.avif",
+        "caption": "Børn leger i en park i Theresienstadt. Propagandafotografi taget under besøget fra Røde Kors' internationale delegation.",
+        "copyright": " ICRC - International Committee of the Red Cross"
+      },
+      {
+        "image": "/images/data/soccer_sketch.jpeg",
+        "caption": "Den første skitse til fodboldscenen.",
+        "copyright": " MEMORISE-projektet. Illustration: Anouk Stevens."
+      }
+    ]
+  },
+  "ball_x5F_group": {
+    "title": "Venskab",
+    "subtitle": "Fodboldbanen",
+    "text": "Steen spillede med en gruppe tjekkiske børn. For at kunne tale med dem lærte han tjekkisk efter gehør. Forholdene, som Steen og hans tjekkiske venner spillede under, var improviserede. Der var ingen fodboldbane, ingen faste mål og ingen rigtig bold. Kampene foregik på en grusbane, og Steens mor lavede en bold af gamle klude – en bold, der ikke holdt længe.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1943 - 1945",
+    "data": [
+      {
+        "image": "/images/data/soccer_childrenbarrack.avif",
+        "caption": "Fotografi af en gade i Theresienstadt nær børnekasernen, taget under besøget fra Røde Kors' internationale delegation.",
+        "copyright": " ICRC - International Committee of the Red Cross"
+      },
+      {
+        "caption": "Hver tredje måned kunne vi købe én ting i 'butikkerne' med et særligt rationeringskort. Varerne i 'butikkerne' bestod af ting, der var taget fra hjem i Tyskland eller fra fangernes kufferter i Theresienstadt, før de blev givet tilbage til fangerne. Min mand og min dreng købte et par korte, hvide ankelsokker til mig, fordi mine fødder frøs så meget om natten. Desuden lavede jeg en fodbold til min dreng. Den var lavet af gamle klude og holdt kun meget kort tid.",
+        "copyright": " Magna Metz' erindringer om Theresienstadt i en undersøgelse foretaget af den danske regering i 1946. I: En dansk dreng i Theresienstadt. Oversat af Steen."
+      }
+    ]
+  },
+  "steenmetz_x5F_group": {
+    "title": "Venskab",
+    "subtitle": "Øjeblikke af barndom",
+    "text": "Ud over at stå i kø efter mad og udføre frivilligt arbejde spillede Steen fodbold med nogle af de tjekkiske børn i Theresienstadt. Steen husker, at det var de eneste øjeblikke, hvor han var tættest på at føle sig som en niårig.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1943 - 1945"
+  },
+  "friends_x5F_group": {
+    "title": "Venskab",
+    "subtitle": "Et pludseligt tab",
+    "text": "En dag kom Steen hen på banen for at spille fodbold og opdagede, at hans tjekkiske venner ikke var kommet. Hans mor, som vidste, hvad der var sket, trøstede ham og valgte at skåne ham for sandheden: Børnene var blevet transporteret til udryddelseslejre.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "1943 - 1945",
+    "audio": "soccer_friends.mp3",
+    "data": [
+      {
+        "image": "/images/data/soccer_propaganda.avif",
+        "caption": "Børn leger i en park i Theresienstadt. Propagandafotografi taget under besøget fra Røde Kors' internationale delegation.",
+        "copyright": " ICRC - International Committee of the Red Cross"
+      },
+      {
+        "image": "/images/data/soccer_sketch.jpeg",
+        "caption": "Den første skitse til fodboldscenen.",
+        "copyright": " MEMORISE-projektet. Illustration: Anouk Stevens."
+      }
+    ]
+  },
+  "modelcamp": {
+    "title": "Mønsterlejr",
+    "subtitle": "Inspektionsbesøget",
+    "text": "I 1944 anmodede Den Internationale Røde Kors Komité sammen med repræsentanter for den danske administration om adgang til lejren for at vurdere behandlingen af de danske jødiske fanger. Så vidt Steen ved, anmodede ingen andre lande om at se lejren. De nazistiske myndigheder så besøget som en mulighed for propaganda og gav Theresienstadt-ghettoen tilnavnet ‘mønsterlejr’.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "Februar 1944 – juni 1944",
+    "data": [
+      {
+        "image": null,
+        "caption": null,
+        "copyright": null
+      }
+    ]
+  },
+  "pavillion_x5F_group": {
+    "title": "Mønsterlejr",
+    "subtitle": "Forskønnelsesprogrammet",
+    "text": "Som forberedelse til inspektionen iværksatte nazisterne forskønnelsesprogrammet i begyndelsen af februar 1944. Gader og bygninger blev rengjort, blomsterbede anlagt og rekreative områder opført. For at mindske indtrykket af overbelægning blev omkring 7.500 fanger deporteret til Auschwitz før besøget.\n\nInspektionen fandt sted i sommeren 1944 og varede mellem fire og otte timer. Besøget var omhyggeligt indøvet på forhånd. Fangerne blev instrueret i at udføre bestemte aktiviteter, det hårde arbejde blev indstillet, og de danske jøder blev flyttet til bedre kvarterer.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "Februar – juni 1944"
+  },
+  "whitebus": {
+    "title": "Befrielsen med De Hvide Busser",
+    "shorttitle": "De Hvide Busser",
+    "subtitle": "Lykkeligere tider",
+    "text": "Få uger før krigens afslutning hørte fangerne i Theresienstadt rygter om, at De Hvide Busser var på vej fra Sverige for at befri skandinaviske fanger, herunder de danske jøder. Den svenske greve Folke Bernadotte havde forhandlet om deres løsladelse og dermed sat De Hvide Busser-aktionen i gang. De danske fanger – herunder Steen og hans mor – blev flyttet til Jäger-kasernen, hvor De Hvide Busser ankom den 15. april 1945 for at redde dem.",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "15. april 1945",
+    "audio": "buses_liberation.mp3",
+    "data": [
+      {
+        "image": "/images/data/whitebuses_jagerkaserne.jpg",
+        "caption": "Jäger-kasernen i Theresienstadt med jødiske kvinder fra Ungarn, sandsynligvis fotograferet i de sidste dage før ghettoens befrielse eller kort tid efter.",
+        "copyright": " Yad Vashem Photo Archive, katalognummer 15621, registreringsnummer 10976/p."
+      },
+      {
+        "image": "/images/data/whitebussesBack.jpg",
+        "caption": "De Hvide Busser på vej tilbage gennem Haderslev.",
+        "copyright": " Danmark på film, Det Danske Filminstitut."
+      },
+      {
+        "image": "/images/data/whitebussesOdense.jpg",
+        "caption": "De Hvide Busser på vej til Odense.",
+        "copyright": " Danmark på film, Det Danske Filminstitut."
+      }
+    ]
+  },
+  "bus_x5F_group": {
+    "title": "Befrielsen med De Hvide Busser",
+    "subtitle": "Vejen gennem Tyskland",
+    "text": "De Hvide Busser reddede omkring 425 overlevende danske jøder. Før afrejsen giftede nogle unge danske mænd sig med kvindelige fanger fra ghettoen, så kvinderne også kunne blive befriet. Blandt dem, der rejste, var fire spædbørn, som var blevet født i hemmelighed i lejren. På vejen tilbage måtte De Hvide Busser standse flere gange i Tyskland.\n\nquote(Jeg husker, at jeg kiggede ud af bussen og trak gardinet til side, selvom jeg ikke måtte. Jeg så nogle meget unge soldater!)",
+    "location": "Theresienstadt, Tjekkoslovakiet",
+    "time": "15. april 1945",
+    "data": [
+      {
+        "image": "/images/data/whitebusses.jpg",
+        "caption": "Fotografi af en af De Hvide Busser med det svenske flag og Røde Kors-symbol.",
+        "copyright": " Det Jødiske Samfund i Danmark."
+      },
+      {
+        "image": "/images/data/whitebusses2.jpg",
+        "caption": "De Hvide Busser efter ankomsten til Danmark.",
+        "copyright": " Dansk Røde Kors."
+      },
+      {
+        "image": "/images/data/buses_document.jpg",
+        "caption": "Lister over befriede jøder fra Theresienstadt, som ankom til Sverige.",
+        "copyright": " Arolsen Archives."
+      }
+    ],
+    "map": {
+      "title": "Fra Theresienstadt til den danske grænse med grænserne fra 1938.",
+      "mapyear": 1938,
+      "start": {
+        "lat": 50.51061972769558,
+        "lon": 14.149830134701624
+      },
+      "end": {
+        "lat": 54.805063190634655,
+        "lon": 9.329378684046349
+      },
+      "lineString": {
+        "type": "LineString",
+        "coordinates": [
+          [14.167088829000193, 50.51441008192132],
+          [13.962612675976791, 50.608929464732086],
+          [13.95767921645928, 50.698073326842895],
+          [13.897655458996255, 50.77873011675042],
+          [13.605759105690991, 51.06174451308938],
+          [13.34593023776885, 51.05605974344338],
+          [12.760493045243964, 51.257699142873776],
+          [12.522042503945714, 51.317865022209375],
+          [11.668554010269398, 51.73376638125237],
+          [11.541928549710294, 52.160001125965124],
+          [9.90554806440692, 52.39493465584368],
+          [9.69212097748162, 52.84774018308916],
+          [10.091185170802492, 53.25998001382792],
+          [9.963042620673711, 54.17011074702082],
+          [9.346770331672495, 54.82621961430997]
+        ]
+      }
+    }
+  },
+  "crowd_x5F_group": {
+    "title": "Befrielsen med De Hvide Busser",
+    "subtitle": "Vejen gennem Danmark",
+    "text": "Da De Hvide Busser nåede den danske grænse den 17. april, var Danmark stadig besat, men de befriede jøder blev modtaget med blomster, slik, snacks og smørrebrød. De tidligere fanger fortsatte gennem Danmark og tog færgen fra Københavns havn til Malmø i Sverige, hvor de skulle være i karantæne i to uger, enten i Tylösand eller Strangnæs.",
+    "location": "Danmark",
+    "time": "17. april 1945",
+    "data": [
+      {
+        "caption": "Overalt, hvor vi kom frem, blev flaget hejst, og overalt råbte folk velkommen og hurra, og de kastede chokolade, blomster, små danske flag, cigaretter, kager og smørrebrød til os. Det var den bedste dag i mit liv. Der stod mennesker overalt; gaderne var fulde, og fra alle vinduer bød folk os velkommen. De tyske soldater stod rundt omkring og kunne intet gøre.",
+        "copyright": " Ellen Oppenhejms erindringer. I: The Jews of Denmark in the Holocaust: Life and Death in Theresienstadt Ghetto af Silvia Goldbaum Tarabini Fracapane."
+      },
+      {
+        "image": "/images/data/buses_welcomejutland.jpg",
+        "caption": "De Hvide Busser kører gennem Sønderjylland, hvor de bliver modtaget af jublende menneskemængder.",
+        "copyright": " Svensk Røde Kors."
+      },
+      {
+        "image": "/images/data/buses_haderslev.jpg",
+        "caption": "Transporten af danske jøder fra Theresienstadt under et stop i Haderslev.",
+        "copyright": " Frihedsmuseet."
+      }
+    ],
+    "map": {
+      "title": "Fra den danske grænse til Malmø med grænserne fra 1938.",
+      "mapyear": 1938,
+      "start": {
+        "lat": 54.805063190634655,
+        "lon": 9.329378684046349
+      },
+      "end": {
+        "lat": 55.6025,
+        "lon": 13.000833
+      },
+      "lineString": {
+        "type": "LineString",
+        "coordinates": [
+          [9.357836625726323, 54.834964114161025],
+          [9.423158328808753, 55.49948926731361],
+          [9.674283986793146, 55.54057792253558],
+          [10.346371728345495, 55.36029178981294],
+          [10.525643508897065, 55.36400459254174],
+          [10.807252628255284, 55.31116752595358],
+          [11.560629600770032, 55.4604152921538],
+          [12.15650868699833, 55.48221923684352],
+          [12.421424480899944, 55.629183065963964],
+          [12.663840578491813, 55.63532877545892],
+          [13.005690820691154, 55.60172045887723]
+        ]
+      }
+    }
+  },
+  "after": {
+    "title": "Efter Theresienstadt",
+    "shorttitle": "Efter",
+    "subtitle": "Hjemkomsten til Odense",
+    "text": "Den 5. maj 1945, blot to uger efter deres ankomst til Sverige, sluttede krigen, og Danmark blev befriet. Dagen fejres stadig som Danmarks befrielsesdag, og den var samtidig Steens tiårs fødselsdag. Steen og hans mor vendte tilbage til Odense i begyndelsen af juni. Hjemme igen spøgte Steen over for sine skolekammerater med, at de havde hejst de danske flag til ære for hans fødselsdag. Hjemkomsten betød, at de skulle genopbygge en normal tilværelse og samtidig konfronteres med det, de havde mistet under opholdet i Theresienstadt. Deres lejlighed var blevet lejet ud på grund af boligmangel, men deres personlige ejendele var blevet opbevaret sikkert af hans fars tidligere arbejdsplads. Venner tog imod dem og gav dem en varm velkomst, og med tiden fandt de igen en lejlighed i Stovesberg.",
+    "location": "Odense, Danmark",
+    "time": "1945 - 2008",
+    "map": {
+      "title": "Fra Sverige til Odense med grænserne fra 1938.",
+      "mapyear": 1938,
+      "start": {
+        "lat": 55.605,
+        "lon": 12.997
+      },
+      "end": {
+        "lat": 55.403756,
+        "lon": 10.40237
+      },
+      "lineString": {
+        "type": "LineString",
+        "coordinates": [
+          [13.005690820691154, 55.60172045887723],
+          [12.663840578491813, 55.63532877545892],
+          [12.421424480899944, 55.629183065963964],
+          [12.15650868699833, 55.48221923684352],
+          [11.560629600770032, 55.4604152921538],
+          [10.807252628255284, 55.31116752595358],
+          [10.525643508897065, 55.36400459254174],
+          [10.346371728345495, 55.36029178981294]
+        ]
+      }
+    }
+  },
+  "schooling_x5F_group": {
+    "title": "Efter Theresienstadt",
+    "subtitle": "Hans tidligere klassekammerater",
+    "text": "Steen fik privatundervisning af en lærer, så han kunne vende tilbage til sin tidligere femteklasse på Henriette Hørlücks Skole. Han husker ikke, at klassekammeraterne nogensinde spurgte, hvor han havde været. Han havde altid troet, at hans mor eller skoleinspektøren havde bedt dem om ikke at spørge. Ved en senere klassesammenkomst fik han at vide, at klassekammeraterne selv havde truffet den beslutning.\n\nquote(Jeg spekulerer nu på, om læreren også forsøgte at vurdere, om jeg var i stand til at vende tilbage til mine tidligere klassekammerater. Hvis det var tilfældet, bestod jeg. Jeg husker, at jeg sad i lærerens have og spiste vidunderlige, friskplukkede jordbær.)",
+    "location": "Odense, Danmark",
+    "time": "1945"
+  },
+  "gymnasium_x5F_group": {
+    "title": "Efter Theresienstadt",
+    "subtitle": "En international karriere",
+    "text": "I 1953 blev Steen student fra Sct. Knuds Gymnasium i Odense. Efter gymnasiet og handelsskolen ville Steen gerne til udlandet. Han forlod Danmark i 1959, efter at han var blevet ansat i en dansk fødevarevirksomhed med internationale aktiviteter. Arbejdet førte ham først til England og derefter til Canada.",
+    "location": "Illinois, USA",
+    "time": "1953 - 1962",
+    "map": {
+      "title": "Flytningen fra Europa til Nordamerika.",
+      "mapyear": 1959,
+      "start": {
+        "lat": 55.381537446534686,
+        "lon": 10.395795592972672
+      },
+      "end": {
+        "lat": 62.3933,
+        "lon": -96.8181
+      }
+    },
+    "data": [
+      {
+        "image": "/images/data/after_gymnasium.jpg",
+        "caption": "Sct. Knuds Gymnasium i 1940.",
+        "copyright": " H. Lykke."
+      },
+      {
+        "image": "/images/data/after_steen.jpg",
+        "caption": "Fotografi af Steen.",
+        "copyright": null
+      }
+    ]
+  },
+  "family_x5F_group": {
+    "title": "Efter Theresienstadt",
+    "subtitle": "En voksende familie",
+    "text": "I Canada mødte Steen sin kommende hustru, Eileen. Parret blev gift i 1962 og flyttede samme år til Illinois i USA. Steen arbejdede siden for flere fødevarevirksomheder, før han gik på pension i 1999 som 65-årig. Når han ser tilbage på sin karriere, har han bemærket, at han altid ønskede at have mad inden for rækkevidde. Her ses Steen i 2018 sammen med sin hustru Eileen og deres familie.",
+    "location": "Illinois, USA",
+    "time": "1962 - i dag",
+    "map": {
+      "title": "Flytningen til Illinois.",
+      "mapyear": 1962,
+      "start": {
+        "lat": 62.3933,
+        "lon": -96.8181
+      },
+      "end": {
+        "lat": 42.033,
+        "lon": -87.747
+      }
+    }
+  },
+  "question_answer": {
+    "title": "Nutiden",
+    "subtitle": "En Holocaustoverlevers refleksioner",
+    "text": "I 2008 begyndte Steen at skrive sin bog En dansk dreng i Theresienstadt. Som led i sin research vendte han i 2009 tilbage til Theresienstadt for første gang i mere end halvtreds år. Han udgav den første udgave af bogen i 2011 og troede, at han ikke ville gøre mere, indtil han blev inviteret til at tale på sit barnebarns skole i Park Ridge.\n\nSiden 2012 har Steen talt for 900 grupper og nået næsten 135.000 mennesker, hvoraf de fleste var elever og studerende. Han har talt i mange forskellige amerikanske delstater og på mange forskellige institutioner. Han er forbløffet over, hvor mange mennesker fra forskellige institutioner der har kontaktet ham, især i de senere år. Eksempelvis har en skole i Midtvesten udarbejdet en bog om ham, som skal bruges i undervisningen. I dag er det at fortælle om sine oplevelser ikke blot hans mission, men også hans passion.",
+    "location": null,
+    "time": "2008 - i dag"
+  },
+  "forgiven_x5F_group": {
+    "title": " ",
+    "subtitle": "Har du tilgivet nazisterne?",
+    "text": "Jeg ved, at tilgivelse er en god ting, og jeg er klar over de omgivelser, jeg besvarer spørgsmålet i, men jeg kan stadig ikke tilgive nazisterne for det, de gjorde. Hvordan skulle jeg kunne det? De var ansvarlige for at tage livet af seks millioner jøder, herunder min far, og også millioner af andre mennesker.",
+    "location": null,
+    "time": null
+  },
+  "collaborators_x5F_group": {
+    "title": " ",
+    "subtitle": "Var der danskere, som samarbejdede med nazisterne?",
+    "text": "Ja, nogle danskere hjalp nazisterne, men de var forholdsvis få sammenlignet med andre besatte lande. I Danmark hjalp politiet eksempelvis danske jøder med at flygte til Sverige, mens politiet i lande som Polen og Frankrig hjalp med at arrestere jødiske familier.",
+    "location": null,
+    "time": null
+  },
+  "jewish_x5F_group": {
+    "title": " ",
+    "subtitle": "Hvordan fandt nazisterne ud af, at du var jøde, når I ikke praktiserede religionen?",
+    "text": "Nazisterne havde stjålet registre med navne og adresser på alle jødiske familier fra de jødiske kontorer i København. Min familie stod også i registrene, fordi min far var opdraget i den jødiske tro, og vores familie var medlem af det jødiske trossamfund.",
+    "location": null,
+    "time": null
+  },
+  "religion_x5F_group": {
+    "title": " ",
+    "subtitle": "Har dine oplevelser ændret din holdning til religion?",
+    "text": "Lige efter krigen vendte min mor og jeg os sandsynligvis væk fra religionen, fordi vi havde lidt så meget, herunder mistet min far. Jeg er sikker på, at jeg ville være blevet opdraget i den jødiske tro, hvis min far havde overlevet Holocaust. I årene, hvor jeg har fortalt om mine oplevelser under Holocaust, er min identitet blevet mere jødisk, selvom jeg ikke praktiserer den jødiske tro.",
+    "location": null,
+    "time": null
+  },
+  "lesson_x5F_group": {
+    "title": " ",
+    "subtitle": "Hvad ønsker du, at vi skal lære af din historie?",
+    "text": "Jeg tror, at vi kan lære flere ting: Man kan stadig få succes, selv efter at have været igennem svære tider. Prøv at behandle andre mennesker, som du selv ønsker at blive behandlet. Vis respekt og tolerance over for andre. Hvis du ser nogen blive mobbet, så grib ind; vær ikke en passiv tilskuer, som de fleste var under Holocaust. Vær en, der handler – en UPSTANDER, et nyt ord til Webster-ordbogen – i stedet for en tilskuer. Oskar Schindler og det danske folk under Holocaust er fremragende eksempler på mennesker, der handlede.",
+    "location": null,
+    "time": null
+  },
+  "extermination_x5F_group": {
+    "title": " ",
+    "subtitle": "Hvorfor blev du ikke sendt til en udryddelseslejr?",
+    "text": "Dengang følte vi os meget heldige. Vi levede i konstant frygt for at blive deporteret. Da jeg omkring 2008 lavede research til min bog, fandt jeg ud af, at der var en aftale mellem Adolf Eichmann og Werner Best, som var den øverste nazist i Danmark, om ikke at deportere nogen danskere til en udryddelseslejr. Hovedårsagen til aftalen var, at nazisterne i Danmark frygtede, at den danske undergrunds- og modstandsbevægelses aktiviteter ville tage kraftigt til, hvis danske jøder blev deporteret til udryddelseslejre. Nazisterne havde desuden brug for adgang til danske fødevarer, og den uafbrudte eksport til Tyskland var af afgørende betydning. Jeg er sikker på, at min mor døde i 1996 uden at kende til denne aftale.",
+    "location": null,
+    "time": null
+  },
+  "sharing_x5F_group": {
+    "title": " ",
+    "subtitle": "Hvad fik dig til at beslutte at fortælle din historie?",
+    "text": "Jeg havde ikke planer om at fortælle min historie, før vores ældste datter talte med sin søns lærer i skoleåret 2011-12. Min debut fandt sted i oktober 2011. Jeg vidste ikke, hvad jeg skulle forvente af eleverne; jeg troede måske ikke, at de ville interessere sig for eller bekymre sig om det, der var sket med mig. I stedet var de meget respektfulde og velopdragne, lyttede opmærksomt og stillede nogle fremragende spørgsmål. Siden da er jeg ikke holdt op med at fortælle om mine oplevelser under Holocaust.",
+    "location": null,
+    "time": null
+  },
+  "discrimination_x5F_group": {
+    "title": " ",
+    "subtitle": "Oplevede du stadig diskrimination efter befrielsen?",
+    "text": "Der var aldrig – eller måske kun MEGET begrænset – diskrimination af den jødiske befolkning i Danmark. Sådan var det ikke i nogle af de andre lande, som nazisterne besatte, for eksempel Polen.",
+    "location": null,
+    "time": null
+  },
+  "attitude_x5F_group": {
+    "title": " ",
+    "subtitle": "Hvorfor var den danske befolknings holdning til jøderne så anderledes end i andre besatte lande?",
+    "text": "Det skyldtes delvist den danske kultur, hvor man først og fremmest blev betragtet som dansker. Jøderne var godt integreret i det danske samfund, hvilket ikke var tilfældet i Polen. Derudover udgjorde Danmarks jødiske befolkning kun 0,2 % af den samlede befolkning mod omkring 10 % i Polen, hvilket medførte betydeligt mindre antisemitisme i Danmark. Jeg kan tilføje, at danskerne ønskede at hjælpe deres landsmænd som et udtryk for trods og som hævn for nazisternes besættelse af deres land.",
+    "location": null,
+    "time": null
+  },
+  "guilty_x5F_group": {
+    "title": " ",
+    "subtitle": "Føler du skyld eller taknemmelighed over at være i live?",
+    "text": "Måske burde jeg føle skyld, men det gør jeg ikke. Jeg føler mig derimod meget heldig over at tilhøre det mindretal, der overlevede Holocaust.",
+    "location": null,
+    "time": null
+  }
+}

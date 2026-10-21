@@ -1,0 +1,40 @@
+{
+  "name": "memorise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run build:ar-runtime && next build",
+    "build:ar-runtime": "esbuild scripts/ar-runtime-entry.js --bundle --platform=browser --format=esm --external:fs --external:util --minify --outfile=public/ar-runtime.js",
+    "build:ar-targets": "node scripts/compile-ar-targets.cjs",
+    "start": "next start",
+    "lint": "next lint",
+    "optimize:svg-images": "python3 scripts/optimize-svg-images.py"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@react-three/drei": "^9.114.4",
+    "@react-three/fiber": "^8.17.10",
+    "@reduxjs/toolkit": "^2.8.2",
+    "@vis.gl/react-maplibre": "^8.1.1",
+    "autoprefixer": "^10.5.6",
+    "maplibre-gl": "^5.24.0",
+    "mind-ar": "^1.2.5",
+    "next": "^16.3.6",
+    "postcss": "^8.5.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-inlinesvg": "^4.2.0",
+    "react-redux": "^9.2.0",
+    "tailwindcss": "^3.4.19",
+    "three": "^0.157.0",
+    "three-stdlib": "^2.33.0",
+    "tween": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "esbuild": "^0.25.12",
+    "puppeteer-core": "^24.43.1",
+    "typescript": "^5.6.3"
+  }
+}
